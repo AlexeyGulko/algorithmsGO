@@ -1,3 +1,3 @@
-module github.com/AlexeyGulko/algorithms
+module github.com/AlexeyGulko/algorithmsGO
 
 go 1.19
